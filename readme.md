@@ -1,4 +1,3 @@
-//lista de comandos
-Arnold Zachary Mamani Limascca 
-Tomklare20@gmail.com
-#portafolio
+Arnold Zachary Mamani Limascca
+75837737
+tomklare20@gmail.com
